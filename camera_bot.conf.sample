@@ -1,0 +1,19 @@
+; -*- ini -*-
+
+[app]
+
+; 基底URL（最後の文字は"/"）
+url = http://example.jp/
+
+[lingr]
+
+; 動作する部屋
+room = example
+
+; コマンド
+command = camera
+
+[camera]
+
+; カメラのデバイス番号
+number = 0
